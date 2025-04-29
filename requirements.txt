@@ -1,52 +1,6 @@
-Flask==2.3.3
-gunicorn==21.2.0
-requests==2.31.0
-Werkzeug==2.3.8
-Jinja2==3.1.3
-MarkupSafe==2.1.5
-itsdangerous==2.1.2
-click==8.1.7
-blinker==1.7.0
-numpy==1.26.4
-pandas==2.2.1
-matplotlib==3.8.3
-seaborn==0.13.2
-scikit-learn==1.4.1
-scipy==1.13.0
-statsmodels==0.14.1
-tensorflow==2.16.1  # Or tensorflow-cpu if you don't need GPU support
-torch==2.3.0         # Or torch-cpu
-torchvision==0.18.0
-torchaudio==2.3.0
-transformers==4.39.3
-SQLAlchemy==2.0.30
-psycopg2-binary==2.9.9  # For PostgreSQL
-mysqlclient==2.2.5     # For MySQL
-pymongo==4.7.0        # For MongoDB
-beautifulsoup4==4.12.3
-python-dotenv==1.0.1
-PyYAML==6.0.1
-tqdm==4.66.2
-python-dateutil==2.9.0.post0
-six==1.16.0
-pytz==2024.1
-cachetools==5.5.1
-protobuf==4.25.3
-typing-extensions==4.12.2
-colorama==0.4.6
-flake8==7.0.0
-pytest==8.1.1
-coverage==7.4.4
-black==24.4.2
-isort==5.13.2
-asyncio==3.4.3
-aiohttp==3.9.3
-logging-loki==0.7.1
-Pillow==10.3.0
-requests-oauthlib==1.3.1
-cryptography==42.0.5
-setuptools==70.0.0
-wheel==0.43.0
+Flask==2.0.1
+gunicorn==23.0.0
+Werkzeug==2.2.2
 itsdangerous==2.2.0
 Jinja2==3.1.4
 MarkupSafe==3.0.2
